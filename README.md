@@ -16,7 +16,7 @@ This repository contains a Python script that demonstrates how to create and sen
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Author-linsedevv-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/Author-4xkw-blue?style=flat-square">
   <img src="https://img.shields.io/badge/Open%20Source-Yes-darkgreen?style=flat-square">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F4xkw%2FTCP-SPOOFING&title=Visitors&edge_flat=false"/></a>
 </p>
@@ -35,7 +35,7 @@ pip install random
 pip install time
 ```
 <b>Author</b>
-This project was originally created by linsedevv, and contributions are welcome.
+This project was originally created by 4xkw, and contributions are welcome.
 
 Author: linsedevv
 Contributions: If you have suggestions or improvements, feel free to fork the repository and submit a pull request.
@@ -62,13 +62,13 @@ Contributions: Feel free to open issues or create pull requests to enhance the p
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.0-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/linsedevv/TCP-SPOOFING?style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/linsedevv/TCP-SPOOFING?color=red&style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/linsedevv/TCP-SPOOFING?color=teal&style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/4xkw/TCP-SPOOFING?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/4xkw/TCP-SPOOFING?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/4xkw/TCP-SPOOFING?color=teal&style=for-the-badge">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Author-linsedevv-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/Author-4xkw-blue?style=flat-square">
   <img src="https://img.shields.io/badge/Author-4xkw-blue?style=flat-square">
   <img src="https://img.shields.io/badge/Open%20Source-Yes-darkgreen?style=flat-square">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flinsedevv%2FTCP-SPOOFING&title=Visitors&edge_flat=false"/>
