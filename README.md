@@ -10,15 +10,15 @@ This repository contains a Python script that demonstrates how to create and sen
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.0-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/linsedevv/TCP-SPOOFING?style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/linsedevv/TCP-SPOOFING?color=red&style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/linsedevv/TCP-SPOOFING?color=teal&style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/4xkw/TCP-SPOOFING?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/4xkw/TCP-SPOOFING?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/4xkw/TCP-SPOOFING?color=teal&style=for-the-badge">
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Author-linsedevv-blue?style=flat-square">
   <img src="https://img.shields.io/badge/Open%20Source-Yes-darkgreen?style=flat-square">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flinsedevv%2FTCP-SPOOFING&title=Visitors&edge_flat=false"/></a>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F4xkw%2FTCP-SPOOFING&title=Visitors&edge_flat=false"/></a>
 </p>
 
 The goal of this project is to teach how TCP packets are structured, how IP spoofing works, and how to perform network testing in a controlled environment for educational purposes.
@@ -57,7 +57,6 @@ Warning: This tool is designed for educational purposes only. It is crucial to o
 <b>Contact</b>
 For any inquiries or feedback, please contact the author at:
 
-Email: linsedevv@example.com
 GitHub Repository: TCP-SPOOFING
 Contributions: Feel free to open issues or create pull requests to enhance the project.
 
